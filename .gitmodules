@@ -1,0 +1,6 @@
+[submodule "a4-accel-sim-Kenrick-MH"]
+	path = a4-accel-sim-Kenrick-MH
+	url = git@github.com:Kenrick-MH/a4-accel-sim-Kenrick-MH.git
+[submodule "accel-sim-framework"]
+	path = accel-sim-framework
+	url = git@github.com:Kenrick-MH/accel-sim-framework.git
